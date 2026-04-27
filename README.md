@@ -1,16 +1,24 @@
-## Hi there 👋
+# 👋 ¡Hola! Soy Eliseo Argueta
 
-<!--
-**Eliseo-Argueta/Eliseo-Argueta** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🧑‍💻 Sobre mí
 
-Here are some ideas to get you started:
+Soy Licenciado en Comunicaciones y me apasiona interactuar con las personas sobre diversos temas de la realidad nacional. Disfruto profundamente el proceso creativo en el ámbito audiovisual, desde la preproducción hasta la postproducción. Me interesa cómo la tecnología potencia la narrativa y la comunicación visual.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Tecnologías y herramientas
+
+* 🎧 Adobe Audition
+* 🎨 Adobe Photoshop
+* 🎬 Adobe Premiere
+* ✨ Adobe After Effects
+* 📽️ Sony Vegas
+
+## 📌 Proyectos destacados
+
+### 🎥 Documental de una comunidad
+
+Producción audiovisual enfocada en retratar la vida, cultura y desafíos de una comunidad local, utilizando técnicas de narrativa documental.
+🔗 (Agrega aquí el enlace a tu proyecto)
+
+## 📫 Contacto
+
+* 📧 Correo: [prensaeliseoargueta@gmail.com](mailto:prensaeliseoargueta@gmail.com)
